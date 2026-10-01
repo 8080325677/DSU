@@ -1,4 +1,4 @@
-// code by tanay ranka sycse b 8
+// code by Pavan sycse b 8
 #include <stdio.h>
 #include <stdlib.h>
 

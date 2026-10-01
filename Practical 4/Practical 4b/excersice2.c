@@ -1,5 +1,5 @@
 
-// code by tanay ranka sycse b 8
+// code by Pavan sycse b 8
 #include<stdio.h>
 #include <string.h>
 int binary_search(char *arr[], int low, int high, const char *target) {

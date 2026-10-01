@@ -1,4 +1,4 @@
-//code vy tanay ranks sycse b 8
+//code vy Pavan sycse b 8
 #include <stdio.h>
 #include <stdlib.h>
 

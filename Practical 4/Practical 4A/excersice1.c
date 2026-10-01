@@ -1,5 +1,5 @@
 
-// code by tanay ranka sycse b 8
+// code by Pavan sycse b 8
 #include<stdio.h>
 int binary_search(int arr[], int target, int low, int high){
     if(low > high){
